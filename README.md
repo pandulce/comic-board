@@ -1,2 +1,5 @@
-# w-comic-board
-Herramienta para publicar web comics
+# Comic board
+
+## Herramienta para publicar web comics
+
+PHP, MySQL, Licencia MIT
